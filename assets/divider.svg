@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 28" width="840" height="28" role="img" aria-label="divider">
+  <style>
+    rect { opacity:.18; animation: px 2.4s steps(1) infinite; }
+    @keyframes px { 0% {opacity:1} 12% {opacity:.55} 24% {opacity:.18} }
+  </style>
+    <rect x="0.0" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.000s"/>
+  <rect x="20.1" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.057s"/>
+  <rect x="40.2" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.114s"/>
+  <rect x="60.3" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.171s"/>
+  <rect x="80.4" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.229s"/>
+  <rect x="100.5" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.286s"/>
+  <rect x="120.6" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.343s"/>
+  <rect x="140.7" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.400s"/>
+  <rect x="160.8" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.457s"/>
+  <rect x="180.9" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.514s"/>
+  <rect x="201.0" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.571s"/>
+  <rect x="221.0" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.629s"/>
+  <rect x="241.1" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.686s"/>
+  <rect x="261.2" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.743s"/>
+  <rect x="281.3" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.800s"/>
+  <rect x="301.4" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.857s"/>
+  <rect x="321.5" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.914s"/>
+  <rect x="341.6" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:0.971s"/>
+  <rect x="361.7" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.029s"/>
+  <rect x="381.8" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.086s"/>
+  <rect x="401.9" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.143s"/>
+  <rect x="422.0" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.200s"/>
+  <rect x="442.1" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.257s"/>
+  <rect x="462.2" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.314s"/>
+  <rect x="482.3" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.371s"/>
+  <rect x="502.4" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.429s"/>
+  <rect x="522.5" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.486s"/>
+  <rect x="542.6" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.543s"/>
+  <rect x="562.7" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.600s"/>
+  <rect x="582.8" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.657s"/>
+  <rect x="602.9" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.714s"/>
+  <rect x="623.0" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.771s"/>
+  <rect x="643.0" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.829s"/>
+  <rect x="663.1" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.886s"/>
+  <rect x="683.2" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:1.943s"/>
+  <rect x="703.3" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:2.000s"/>
+  <rect x="723.4" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:2.057s"/>
+  <rect x="743.5" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:2.114s"/>
+  <rect x="763.6" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:2.171s"/>
+  <rect x="783.7" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:2.229s"/>
+  <rect x="803.8" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:2.286s"/>
+  <rect x="823.9" y="8" width="16.1" height="12" fill="#ffb000" style="animation-delay:2.343s"/>
+</svg>
