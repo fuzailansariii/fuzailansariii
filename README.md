@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · Next.js · TypeScript · PostgreSQL
 
-I build web products end to end — database, backend, UI, auth, payments and deployment.<br/>
+I build web products end-to-end — database, backend, UI, auth, payments, and deployment.<br/>
 Currently building **[Clentric](https://clentric.app/)** and open to **full-time full-stack roles** (remote or on-site).
 
 <br/>
