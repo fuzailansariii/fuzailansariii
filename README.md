@@ -1,10 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Mohd%20Fuzail%20Ansari&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header" />
+
 <div align="center">
 
-# Hi, I'm Fuzail 👋
+<a href="https://fuzail-dev.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Next.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;I+build+products+from+idea+to+production;Shipped+2+live+client+products+with+payments;Currently+building+Clentric" alt="Typing intro" />
+</a>
 
-### Full-Stack Developer · Next.js · TypeScript · PostgreSQL
-
-I build web products end-to-end — database, backend, UI, auth, payments, and deployment.<br/>
+I build web products end to end — database, backend, UI, auth, payments and deployment.<br/>
 Currently building **[Clentric](https://clentric.app/)** and open to **full-time full-stack roles** (remote or on-site).
 
 <br/>
@@ -87,6 +89,17 @@ Private cloud file manager with drag-and-drop uploads, folders, starred files, a
 
 ---
 
+## 🐍 Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fuzailansariii/fuzailansariii/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/fuzailansariii/fuzailansariii/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
+</picture>
+
+---
+
 <div align="center">
 <sub>Always happy to talk about building products. Reach out through my <a href="https://fuzail-dev.vercel.app/#contact">portfolio</a>.</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="Footer" />
