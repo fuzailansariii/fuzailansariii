@@ -1,105 +1,102 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Mohd%20Fuzail%20Ansari&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header" />
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Mohd Fuzail Ansari — Full-Stack Developer" />
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://fuzail-dev.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B8_PORTFOLIO-fuzail--dev.vercel.app-33ff66?style=flat-square&labelColor=0b0f0a" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mohdfuzailansari"><img src="https://img.shields.io/badge/%E2%96%B8_LINKEDIN-mohdfuzailansari-ffb000?style=flat-square&labelColor=0b0f0a" alt="LinkedIn" /></a>
+  <a href="https://x.com/fuzail_ansarii"><img src="https://img.shields.io/badge/%E2%96%B8_X-@fuzail__ansarii-33ff66?style=flat-square&labelColor=0b0f0a" alt="X" /></a>
+</p>
 
-<a href="https://fuzail-dev.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Next.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;I+build+products+from+idea+to+production;Shipped+2+live+client+products+with+payments;Currently+building+Clentric" alt="Typing intro" />
-</a>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-I build web products end to end — database, backend, UI, auth, payments and deployment.<br/>
-Currently building **[Clentric](https://clentric.app/)** and open to **full-time full-stack roles** (remote or on-site).
+## `▸ PLAYER STATS`
 
-<br/>
+```text
+PLAYER ........ Mohd Fuzail Ansari
+CLASS ......... Full-Stack Developer
+BASE .......... India (UTC +5:30)
+MAIN WEAPON ... Next.js + TypeScript + PostgreSQL
+SPECIAL ....... ships products end to end — database, backend, UI, auth, payments, deploy
+SIDE QUEST .... building Clentric, a SaaS for freelancers
+STATUS ........ ● open to full-time roles (remote / on-site)
+```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fuzail-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdfuzailansari)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fuzail_ansarii)
-
-</div>
-
----
-
-## 🚀 Things I've shipped
+## `▸ LEVELS CLEARED`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧭 [SU Mock Test](https://test.shippingupdates.in/)
+**`LV.1` [SU Mock Test](https://test.shippingupdates.in/)** &nbsp;`● LIVE`
+
 Paid mock-test platform for maritime entrance exams. Timed MCQ tests, instant scoring, analytics and a public leaderboard. Real students have bought and completed tests.
 
 `Next.js` `PostgreSQL` `Drizzle` `Clerk` `Razorpay`
 
-[Live](https://test.shippingupdates.in/) · [Code](https://github.com/fuzailansariii/su-prep)
+[▸ play](https://test.shippingupdates.in/) · [▸ source](https://github.com/fuzailansariii/su-prep)
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 [Shipping Updates](https://shippingupdates.in/)
+**`LV.2` [Shipping Updates](https://shippingupdates.in/)** &nbsp;`● LIVE`
+
 E-commerce and study platform for Merchant Navy aspirants. Physical books, instant PDF downloads, Razorpay payments and order management. Used by students across India.
 
 `Next.js` `PostgreSQL` `Drizzle` `Clerk` `Razorpay`
 
-[Live](https://shippingupdates.in/) · [Code](https://github.com/fuzailansariii/shipping-updates)
+[▸ play](https://shippingupdates.in/) · [▸ source](https://github.com/fuzailansariii/shipping-updates)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💼 [Clentric](https://clentric.app/) <sub>· in development</sub>
+**`LV.3` [Clentric](https://clentric.app/)** &nbsp;`◐ IN PROGRESS`
+
 My own SaaS for freelancers — clients, projects, proposals and invoices in one place. Built with a `feature/* → dev → main` PR workflow.
 
 `Next.js` `PostgreSQL` `Drizzle` `Supabase` `Clerk`
 
-[Live](https://clentric.app/) · [Code](https://github.com/fuzailansariii/clentric)
+[▸ play](https://clentric.app/) · [▸ source](https://github.com/fuzailansariii/clentric)
 
 </td>
 <td width="50%" valign="top">
 
-### 🗂️ [DropFile](https://dropfile-six.vercel.app/)
+**`LV.4` [DropFile](https://dropfile-six.vercel.app/)** &nbsp;`● LIVE`
+
 Private cloud file manager with drag-and-drop uploads, folders, starred files, and trash with restore.
 
 `Next.js` `PostgreSQL` `Drizzle` `Clerk`
 
-[Live](https://dropfile-six.vercel.app/) · [Code](https://github.com/fuzailansariii/dropfile)
+[▸ play](https://dropfile-six.vercel.app/) · [▸ source](https://github.com/fuzailansariii/dropfile)
 
 </td>
 </tr>
 </table>
 
----
+## `▸ INVENTORY`
 
-## 🛠 Tech I work with
+```text
+[ FRONTEND ]  Next.js · React · TypeScript · Tailwind CSS · shadcn/ui
+[ BACKEND  ]  Node.js · Server actions · API routes · REST APIs
+[ DATABASE ]  PostgreSQL · Drizzle ORM · Prisma · Supabase
+[ AUTH/PAY ]  Clerk · NextAuth · Razorpay
+[ TOOLING  ]  Git · GitHub Actions · Vercel · Docker (learning)
+```
+
+## `▸ NOW LOADING`
+
+```text
+[██████████░░░░░░]  Docker
+[████████░░░░░░░░]  CI/CD pipelines
+[██████░░░░░░░░░░]  Testing (Vitest / Playwright)
+```
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,supabase,prisma&perline=8" alt="Core stack" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,docker,vscode,postman,figma&perline=8" alt="Tools" />
+  <a href="https://fuzail-dev.vercel.app/#contact">
+    <img src="./assets/footer.svg" width="100%" alt="Press start to connect" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
-</p>
-
-<p align="center"><sub>Currently learning: Docker, CI/CD and testing</sub></p>
-
----
-
-## 🐍 Contribution activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fuzailansariii/fuzailansariii/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/fuzailansariii/fuzailansariii/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
-</picture>
-
----
-
-<div align="center">
-<sub>Always happy to talk about building products. Reach out through my <a href="https://fuzail-dev.vercel.app/#contact">portfolio</a>.</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="Footer" />
